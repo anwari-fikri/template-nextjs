@@ -22,7 +22,7 @@
         "typescript"
     ],
     "scripts": {
-        "dev": "next dev -p 8080",
+        "dev": "next dev",
         "build": "next build",
         "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
     },
